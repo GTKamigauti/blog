@@ -23,7 +23,7 @@ The callstack is the easiest and most important part of the log as it informs th
 [2] [Date and time][ 74]LogWindows: Error: 
 [3] [Date and time][ 74]LogWindows: Error: Fatal error!
 [4] [Date and time][ 74]LogWindows: Error: 
-[5] [Date and time][ 74]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000(12 caracteres will be present here)
+[5] [Date and time][ 74]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0x0000(12 characters will be present here)
 [6] [Date and time][ 74]LogWindows: Error: 
 [7] [Date and time][ 74]LogWindows: Error: [Callstack] 0x0000(12 caracteres will be present here) application.exe!something::crashed::here::yay<() [C:\Unfortunatelly\it\contains\information\that\should\not\be\disclosed\due\to\nda\(This is the important file).cpp:65]
 [8] [Date and time][ 74]LogWindows: Error: [Callstack] 0x0000(12 caracteres will be present here) application.exe!something::crashed::here::yay() [C:\.exe!something::crashed::here::yay<() [C:\Unfortunatelly\it\contains\information\that\should\not\be\disclosed\due\to\nda\(This is the important file again).cpp:25]
