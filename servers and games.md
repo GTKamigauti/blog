@@ -22,7 +22,7 @@ A server is a computer connected to the internet with an application expecting t
 A server's main job is to handle the output from multiple machines. As it is a form of centralization of data management, something that optimizes workflows and lessens the burden on the player machines and creates the possibility for the machine to dedicate more resources to the game, or even lowering the requirements for the title, is the main inspiration for cloud gaming services.
 
 ## Servers in today's context
-As maintaining a physical server include costs in the electrical bill, planned obsolescence, hardware degradation and maintenance costs in general, the vast majority of the companies decided to use someone else computers to do the work, as such, cloud computing was born.
+As maintaining a physical server include costs in the electrical bill, planned obsolescence, hardware degradation, and maintenance costs in general, the vast majority of the companies decided to use someone else computers to do the work, as such, cloud computing was born.
 
 ### What exactly is cloud computing?
 Cloud computing is a way to borrow someone else computer with a fancy name and business plan involved. 
